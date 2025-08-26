@@ -60,7 +60,7 @@ The Arduino checks the passcode against the one stored in EEPROM.
 
 If correct, the relay powers the actuator to unlock the locker.
 
-The OLED display provides feedback (“Access Granted” / “Access Denied”).
+The OLED display provides feedback (“Access Granted” , “Access Denied”, etc.).
 
 A manual key mechanism provides backup access if electronics fail.
 
