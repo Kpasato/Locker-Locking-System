@@ -1,10 +1,8 @@
-Automated Locker System
-
-**Overview**
+*Overview*
 
 The Automated Locker System is an Arduino-based accessibility project designed to provide students with physical challenges a reliable and user-friendly locker experience. The system combines electronic and mechanical components with software to ensure secure access while maintaining a physical failsafe.
 
-***Features:***
+**Features:**
 
 Keypad-controlled locking mechanism with password entry stored in EEPROM for non-volatile storage
 
@@ -34,7 +32,9 @@ DC-DC Buck Step-Down Module (powered by DeWalt 12V battery with RONFACE adapter)
 
 Manual key-based lock for failsafe access
 
-Software
+
+
+**Software**
 
 Language: C (Arduino IDE)
 
@@ -48,7 +48,9 @@ Adafruit_GFX and Adafruit_SSD1306 (for OLED display)
 
 The system is programmed with modular code structure, separating password management, actuator control, and display functions for readability and maintainability.
 
-How It Works
+
+**How It Works**
+
 
 User enters a passcode on the keypad.
 
@@ -60,7 +62,8 @@ The OLED display provides feedback (“Access Granted” / “Access Denied”).
 
 A manual key mechanism provides backup access if electronics fail.
 
-Project Goals
+
+**Project Goals**
 
 Improve accessibility for students with physical challenges.
 
