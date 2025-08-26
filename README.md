@@ -1,6 +1,7 @@
 Automated Locker System
 
 **Overview**
+
 The Automated Locker System is an Arduino-based accessibility project designed to provide students with physical challenges a reliable and user-friendly locker experience. The system combines electronic and mechanical components with software to ensure secure access while maintaining a physical failsafe.
 
 ***Features:***
@@ -66,11 +67,3 @@ Improve accessibility for students with physical challenges.
 Provide a reliable locker solution with both digital convenience and manual reliability.
 
 Demonstrate integration of hardware design, embedded programming, and 3D printing in a real-world system.
-
-Future Improvements
-
-Mobile app integration for remote unlocking
-
-Biometric authentication (fingerprint scanner)
-
-Data logging for usage tracking
